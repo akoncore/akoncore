@@ -47,6 +47,8 @@
   <img width = "12"/>
   <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height= "40" alt = "django-logo" />
   <img width = "12"/>
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height= "40" alt = "django-logo" />
+  <img width = "12"/>
 
 </div>
 
